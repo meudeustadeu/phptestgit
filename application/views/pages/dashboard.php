@@ -15,11 +15,11 @@
 						<thead>
 							<tr>
 								<th>#</th>
-								<th>Name</th>
-								<th>Price</th>
-								<th>Category</th>
-								<th>Developer</th>
-								<th>Actions</th>
+								<th>Nome</th>
+								<th>Preço</th>
+								<th>Categoria</th>
+								<th>Desenvolvedor</th>
+								<th>Ações</th>
 							</tr>
 						</thead>
 						<tbody>
