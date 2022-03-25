@@ -11,7 +11,7 @@
 			<thead>
 				<tr>
 					<th>#</th>
-					<th>Name</th>
+					<th>Nome</th>
 					<th>Price</th>
 					<th>Category</th>
 					<th>Developer</th>
